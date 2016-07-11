@@ -9,6 +9,10 @@
     "express": "^3.2.6",
     "socket.io": "~0.9.14"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/agbales/image-search-abstraction-layer"
+ }
   "scripts": {
     "start": "node server.js"
   },

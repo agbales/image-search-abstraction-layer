@@ -1,4 +1,5 @@
 var express = require('express');
+var dotenv = require('dotenv').config();
 var app = express();
 
 app.get('/', function (req, res) {
