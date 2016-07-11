@@ -1,0 +1,17 @@
+{
+  "name": "img-serach-abstraction-layer",
+  "version": "0.0.0",
+  "description": "Image search abstraction layer - Free Code Camp",
+  "main": "server.js",
+  "author": "Andrew Bales",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^3.2.6",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
